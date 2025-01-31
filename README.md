@@ -7,6 +7,7 @@ Healthcare 🏥 HR 🧑‍🤝‍🧑 Marketing 💥\
 Nature 🥾 Coffee ☕ Food 🍔
 
 ### Check out my projects! 💭 
+- 🏥 [Emergency Room Visits](https://github.com/aamenahelsherif/not-so-emergent) - ER wait times in Canada are endless - what drives this long wait?
 - 🫀 [Cardiovascular Disease Prevalence](https://github.com/aamenahelsherif/heartbeat) - For each gender: Do certain combination factors present higher risk of cardiovascular disease?
 - 🕊️ [GTA Bird Map](https://public.tableau.com/app/profile/aamenah.elsherif/viz/GTHABirdMap/Presentation) - Avid bird-watcher? Check out this interactive map to filter for your favorites! 
 <!--
